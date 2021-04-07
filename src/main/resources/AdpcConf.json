@@ -1,0 +1,14 @@
+[
+	{
+		"AdpcID":1,
+		"AdpcName":"西点"
+	},
+	{
+		"AdpcID":2,
+		"AdpcName":"西南点"
+	},
+	{
+		"AdpcID":3,
+		"AdpcName":"东南点"
+	}
+]
